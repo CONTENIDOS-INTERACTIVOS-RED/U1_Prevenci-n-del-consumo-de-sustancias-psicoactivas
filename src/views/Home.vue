@@ -22,11 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
+              p.descripcion.mb-4 Desde una perspectiva integral y actualizada, esta unidad ofrece una aproximación al conocimiento de las sustancias psicoactivas, sus clasificaciones, efectos y riesgos asociados, especialmente en el contexto laboral. Se profundiza en los factores biológicos, psicológicos y sociales que explican el fenómeno de la farmacodependencia, y se brindan herramientas para su prevención e intervención efectiva. Este enfoque permite a los estudiantes convertirse en agentes de cambio, capaces de promover ambientes de trabajo saludables, seguros y comprometidos con el bienestar de los colaboradores.
 
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
-              
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
+              p #[b ¡Prepárese para comprender los riesgos, intervenir con conocimiento y generar impacto positivo en su entorno laboral!]
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
@@ -108,7 +106,6 @@ export default {
         background-color: $color-acento-botones
         padding: 12px 42px 12px 32px
         width: 100%
-        color: #fff !important
     .icon
       background-color: $color-sistema-e
       padding: 0px 20px
@@ -149,12 +146,12 @@ export default {
 .iniciar-btn-container
   .iniciar-btn-text
     transition: all 0.25s ease-in-out
-    background-color: $color-acento-botones !important
+    background-color: #CBC9F9 !important
     color: #0B0A0A !important
   .icon
     transition: all 0.25s ease-in-out
     // background-color: #083E61 !important
-    background-color: darken($color-acento-botones, 30% ) !important
+    background-color: #6F6E88 !important
   &:hover
     .icon
       transform: scale(1.06)
