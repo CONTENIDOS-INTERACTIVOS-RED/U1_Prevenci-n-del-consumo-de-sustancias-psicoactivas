@@ -26,7 +26,7 @@
             img.h-100(src='@/assets/curso/unidad/img-55.png', alt='Texto que describa la imagen') 
           .col-12.col-xl-7.d-flex.ps-4.ps-xl-5.align-items-center.flex-column
             h2.mb-4.pb-2.me-auto Factores biológicos
-            p.mb-5(data-aos="fade-up") En el PDF Factores biológicos , se estudian aspectos clave como la predisposición genética, la neurobiología del cerebro adicto y las alteraciones del sistema nervioso, que explican cómo las sustancias psicoactivas afectan el comportamiento y la salud. Este enfoque permite fundamentar estrategias preventivas y terapéuticas más eficaces desde una perspectiva científica y multidimensional.
+            p.mb-5(data-aos="fade-up") En el PDF Factores biológicos, se estudian aspectos clave como la predisposición genética, la neurobiología del cerebro adicto y las alteraciones del sistema nervioso, que explican cómo las sustancias psicoactivas afectan el comportamiento y la salud. Este enfoque permite fundamentar estrategias preventivas y terapéuticas más eficaces desde una perspectiva científica y multidimensional.
             a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_Factores biológicos.pdf')" target="_blank")
               img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
               p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> Factores biológicos
@@ -44,10 +44,10 @@
             .col-4.d-none.d-xl-block
               img(src='@/assets/curso/unidad/img-56.png', alt='Texto que describa la imagen')
             .col-12.col-xl-8.d-flex
-              p.my-auto(data-aos="fade-up") Entre estos factores, unos de los más significativos, son los trastornos mentales. Muchas personas que desarrollan una dependencia a las drogas o al alcohol, pueden estar lidiando con condiciones como la depresión, la ansiedad, el trastorno de estrés postraumático o trastornos de la personalidad, que pueden llevarlas a buscar alivio temporal a través del consumo de sustancias.
+              p.my-auto.p-4.p-xl-0(data-aos="fade-up") Entre estos factores, unos de los más significativos, son los trastornos mentales. Muchas personas que desarrollan una dependencia a las drogas o al alcohol, pueden estar lidiando con condiciones como la depresión, la ansiedad, el trastorno de estrés postraumático o trastornos de la personalidad, que pueden llevarlas a buscar alivio temporal a través del consumo de sustancias.
           .bg-amarillo-oscuro.px-4.row
             .col-12.col-xl-8.d-flex
-              p.my-auto(data-aos="fade-up") Las experiencias traumáticas desempeñan un papel crucial en el desarrollo de la farmacodependencia. Eventos como abusos físicos o emocionales, la pérdida de un ser querido, o situaciones de violencia, pueden dejar huellas profundas en la psique de un individuo. En muchos casos, las personas recurren a las drogas como una forma de escapar del dolor emocional, derivado de tales experiencias, buscando una forma de automedicación que, a la larga, puede resultar en una dependencia. 
+              p.my-auto.p-4.p-xl-0(data-aos="fade-up") Las experiencias traumáticas desempeñan un papel crucial en el desarrollo de la farmacodependencia. Eventos como abusos físicos o emocionales, la pérdida de un ser querido, o situaciones de violencia, pueden dejar huellas profundas en la psique de un individuo. En muchos casos, las personas recurren a las drogas como una forma de escapar del dolor emocional, derivado de tales experiencias, buscando una forma de automedicación que, a la larga, puede resultar en una dependencia. 
             .col-4.d-none.d-xl-block
               img(src='@/assets/curso/unidad/img-57.png', alt='Texto que describa la imagen')
 
@@ -72,7 +72,7 @@
         div.px-5.pb-md-3.py-4.d-flex
           .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
             h2.mb-4.pb-2.me-auto Otros factores
-            p.mb-5(data-aos="fade-up") En el PDF Otros factores , se analizan variables psicológicas, sociales y contextuales como los trastornos mentales, el trauma, la personalidad, la presión de grupo, el entorno familiar y la disponibilidad de sustancias, que inciden significativamente en el inicio y la perpetuación del consumo. Este enfoque permite comprender cómo diversas experiencias y condiciones del entorno pueden interactuar y aumentar la vulnerabilidad al uso problemático de drogas.
+            p.mb-5(data-aos="fade-up") En el PDF Otros factores, se analizan variables psicológicas, sociales y contextuales como los trastornos mentales, el trauma, la personalidad, la presión de grupo, el entorno familiar y la disponibilidad de sustancias, que inciden significativamente en el inicio y la perpetuación del consumo. Este enfoque permite comprender cómo diversas experiencias y condiciones del entorno pueden interactuar y aumentar la vulnerabilidad al uso problemático de drogas.
             a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_Otros factores.pdf')" target="_blank")
               img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
               p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> Otros factores
@@ -113,7 +113,7 @@
 
       .row.mb-4.bg-full-width.ps-4.bg-gris.text-white
         .col-12.col-xl-8.d-flex
-          p.my-auto La farmacodependencia es un trastorno complejo que resulta de la interacción de múltiples factores biológicos, psicológicos y sociales. Comprender la etiología de la farmacodependencia, es esencial para desarrollar estrategias efectivas de prevención y tratamiento. Al abordar no solo el comportamiento adictivo, sino también los factores subyacentes que lo alimentan, se puede ofrecer un enfoque más holístico y efectivo para ayudar a quienes luchan contra la adicción. La investigación continua en este campo, es vital para mejorar las intervenciones y reducir el impacto de la farmacodependencia en la sociedad.
+          p.my-auto.p-4.p-xl-0 La farmacodependencia es un trastorno complejo que resulta de la interacción de múltiples factores biológicos, psicológicos y sociales. Comprender la etiología de la farmacodependencia, es esencial para desarrollar estrategias efectivas de prevención y tratamiento. Al abordar no solo el comportamiento adictivo, sino también los factores subyacentes que lo alimentan, se puede ofrecer un enfoque más holístico y efectivo para ayudar a quienes luchan contra la adicción. La investigación continua en este campo, es vital para mejorar las intervenciones y reducir el impacto de la farmacodependencia en la sociedad.
         .col-4.d-none.d-xl-block.px-0
           img(src='@/assets/curso/unidad/img-64.png', alt='Texto que describa la imagen')
 

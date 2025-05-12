@@ -8,7 +8,7 @@
       div.px-5.pb-md-3.py-4.d-flex
         .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
           h2.mb-4.pb-2.me-auto Generalidades de las sustancias psicoactivas
-          p.mb-5(data-aos="fade-up") En el PDF Generalidades de las sustancias psicoactivas , se estudian sus efectos sobre el sistema nervioso, su uso histórico, ritual y terapéutico, así como los riesgos asociados al consumo recreativo y problemático. Este enfoque integral permite analizar desde múltiples dimensiones —biológica, social y cultural— el impacto de estas sustancias en la salud individual y colectiva.
+          p.mb-5(data-aos="fade-up") En el PDF Generalidades de las sustancias psicoactivas, se estudian sus efectos sobre el sistema nervioso, su uso histórico, ritual y terapéutico, así como los riesgos asociados al consumo recreativo y problemático. Este enfoque integral permite analizar desde múltiples dimensiones —biológica, social y cultural— el impacto de estas sustancias en la salud individual y colectiva.
           a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_Generalidades de las sustancias psicoactivas.pdf')" target="_blank")
             img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
             p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> Generalidades de las sustancias psicoactivas
@@ -24,13 +24,6 @@
           p(numero='1' titulo='Sustancias psicoactivas y su clasificación') La clasificación de las sustancias psicoactivas es un tema de gran relevancia en el campo de la salud pública, la medicina y la sociología, debido a sus implicaciones en la salud mental, física y social de los individuos que las consumen. Las sustancias psicoactivas son aquellas que, al ingresar al organismo, alteran el estado mental, emocional o comportamental de una persona, lo que puede resultar en efectos tanto positivos como negativos, dependiendo del contexto de consumo, la sustancia en sí misma y la cantidad ingerida. A lo largo de este texto, abordaremos en profundidad la clasificación de las sustancias psicoactivas, desglosadas en diferentes categorías, según sus características, efectos, origen, y legalidad, entre otros aspectos relevantes.
           p(numero='2' titulo='Relevancia de la clasificación de las sustancias psicoactivas') Las sustancias psicoactivas son compuestos que, al ingresar al cuerpo humano, modifican el funcionamiento normal del cerebro y del sistema nervioso central, lo que genera alteraciones en la percepción, el pensamiento, las emociones y el comportamiento. Estas sustancias han sido utilizadas a lo largo de la historia con fines diversos, como la medicina, la recreación, los rituales religiosos o espirituales y, en ocasiones, de manera ilegal o peligrosa.<br><br>La clasificación de estas sustancias es esencial para entender sus efectos, los riesgos asociados con su consumo, y las políticas públicas necesarias para regular su uso. Esta clasificación no solo facilita la investigación científica sobre los efectos de cada tipo de sustancia, sino que también proporciona herramientas para el tratamiento y prevención de problemas relacionados con el abuso y la dependencia. Las sustancias psicoactivas pueden clasificarse de diversas maneras, pero las categorías más comunes incluyen la clasificación, según su acción en el sistema nervioso central, su origen, su legalidad, y sus posibles riesgos para la salud.
           p(numero='3' titulo='Clasificación, según su acción sobre el sistema nervioso central') Una de las maneras más comunes de clasificar las sustancias psicoactivas es, según su efecto sobre el sistema nervioso central (SNC); es decir, si actúan como depresores, estimulantes o alucinógenos. Esta clasificación es importante porque cada tipo de sustancia tiene efectos específicos sobre el organismo, que pueden ser tanto terapéuticos como dañinos.
-
-    h2 Clasificación, según su acción sobre el sistema nervioso central
-    .bg-rojo.px-4.row.bg-full-width.mb-4
-      .col-12.col-xl-9.d-flex
-        p.my-auto(data-aos="fade-up") Una de las maneras más comunes de clasificar las sustancias psicoactivas es, según su efecto sobre el sistema nervioso central (SNC); es decir, si actúan como depresores, estimulantes o alucinógenos. Esta clasificación es importante porque cada tipo de sustancia tiene efectos específicos sobre el organismo, que pueden ser tanto terapéuticos como dañinos.
-      .col-3.d-none.d-xl-block
-        img(src='@/assets/curso/unidad/img-9.png', alt='Texto que describa la imagen')
     
     #t_1_1.titulo-segundo(data-aos="flip-up")
       div.d-flex
@@ -43,22 +36,22 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/unidad/img-10.png', alt='Descripción de la imagen')
-      .tarjeta.bg-white.p-4(x='20%' y='20%' numero='+')
+      .tarjeta.bg-white.p-4(x='27%' y='71%' numero='+')
         .h5.mb-2 El alcohol
         p El alcohol es uno de los depresores más consumidos a nivel mundial. Aunque en dosis moderadas puede producir una sensación de relajación y desinhibición, el abuso de esta sustancia puede tener efectos devastadores sobre el organismo, como enfermedades hepáticas, trastornos cardiovasculares, y trastornos psiquiátricos, como la depresión y la ansiedad.
-      .tarjeta.bg-white.p-4(x='20%' y='20%' numero='+')
+      .tarjeta.bg-white.p-4(x='42.3%' y='71%' numero='+')
         .h5.mb-2 Benzodiazepinas
         p Las benzodiazepinas, como el diazepam (Valium) o el alprazolam (Xanax), son medicamentos utilizados en el tratamiento de la ansiedad, insomnio y otros trastornos. Sin embargo, su uso prolongado o no controlado, puede llevar a la dependencia, el abuso y, en casos extremos, a la sobredosis.
-      .tarjeta.bg-white.p-4(x='20%' y='20%' numero='+')
+      .tarjeta.bg-white.p-4(x='58%' y='71%' numero='+')
         .h5.mb-2 Barbitúricos
         p Aunque actualmente están menos utilizados debido a su alto potencial de abuso, los barbitúricos fueron, en el pasado, ampliamente prescritos para tratar la ansiedad y los trastornos del sueño. Estos fármacos tienen un alto riesgo de sobredosis, especialmente cuando se combinan con otras sustancias depresoras, como el alcohol.
-      .tarjeta.bg-white.p-4(x='20%' y='20%' numero='+')
+      .tarjeta.bg-white.p-4(x='73%' y='71%' numero='+')
         .h5.mb-2 Opioides
         p Los opioides, como la morfina, la heroína y la codeína, son conocidos por sus efectos analgésicos y sedantes. Aunque estos compuestos pueden ser muy efectivos en el tratamiento del dolor, su uso indebido puede generar dependencia y adicción, siendo responsables de una gran cantidad de muertes por sobredosis, en todo el mundo.
     
     .d-flex.align-items-start.bg-full-width.bg-gris.text-white.p-4(data-aos='fade-up').d-flex.align-items-center.flex-column.flex-md-row.mb-4
       img.me-3(style='width: 90px' src='@/assets/curso/unidad/img-11.svg', alt='Texto descriptivo de la imagen')
-      .my-auto
+      .my-auto.p-4.p-xl-0
         p.pe-xl-3.mb-0 Los depresores, a pesar de sus usos médicos legítimos, tienen un alto potencial de abuso y adicción. El consumo excesivo de estas sustancias puede generar una dependencia física y psicológica, lo que lleva a la persona a consumirlas de manera compulsiva y a experimentar graves consecuencias en su salud física y mental. 
 
     #t_1_2.titulo-segundo(data-aos="flip-up")
@@ -103,7 +96,7 @@
 
     .d-flex.align-items-start.bg-morado.bg-full-width.p-4(data-aos='fade-up').d-flex.align-items-center.flex-column.flex-md-row.mb-4
       img.me-3(style='width: 90px' src='@/assets/curso/unidad/img-16.svg', alt='Texto descriptivo de la imagen')
-      .my-auto
+      .my-auto.p-4.p-xl-0
         p.pe-xl-3.mb-0 Los estimulantes, aunque proporcionan un impulso temporal en el estado de ánimo y la energía, pueden ser peligrosos cuando se consumen en grandes cantidades o de manera habitual. La dependencia de estos compuestos puede ser psicológica y física, lo que puede llevar a la persona a consumir cada vez más, para mantener los efectos deseados, lo que a su vez aumenta el riesgo de efectos secundarios negativos.
 
     #t_1_3.titulo-segundo(data-aos="flip-up")
@@ -114,7 +107,7 @@
     p.mb-4 Los alucinógenos son sustancias que alteran la percepción de la realidad, provocando alucinaciones y cambios en el pensamiento, la sensación, y la conciencia. Estos efectos pueden ser visuales, auditivos o sensoriales, y las personas que consumen alucinógenos pueden experimentar una distorsión en su sentido del tiempo, espacio, y realidad.
     p.mb-4 Algunos de los alucinógenos más conocidos incluyen:
     TabsC.mb-0
-      .tabs-content.border.px-4.p-md-5.py-3(titulo='', :icon="require('@/assets/curso/unidad/img-17.svg')")
+      .tabs-content.border.px-4.p-md-5.py-3(titulo='LSD (ácido lisérgico)', :icon="require('@/assets/curso/unidad/img-17.svg')")
         .row
           .d-none.d-lg-block.col-md-12.col-lg-5.col-xl-4(data-aos='zoom-in')
             figure
@@ -122,7 +115,7 @@
           .col-md-12.col-lg-7.col-xl-8.mb-4.mb-md-0
             h4(data-aos='fade-up') LSD (ácido lisérgico)
             p(data-aos='fade-up') El LSD es uno de los alucinógenos más potentes. Los usuarios que consumen LSD pueden experimentar una alteración profunda de la percepción sensorial, lo que puede llevar a una "experiencia mística" o "viaje". Sin embargo, el LSD también puede provocar efectos adversos, como paranoia, ansiedad y alucinaciones aterradoras.
-      .tabs-content.border.px-4.p-md-5.py-3(titulo='', :icon="require('@/assets/curso/unidad/img-17.svg')")
+      .tabs-content.border.px-4.p-md-5.py-3(titulo='Psilocibina', :icon="require('@/assets/curso/unidad/img-17.svg')")
         .row
           .d-none.d-lg-block.col-md-12.col-lg-5.col-xl-4(data-aos='zoom-in')
             figure
@@ -130,7 +123,7 @@
           .col-md-12.col-lg-7.col-xl-8.mb-4.mb-md-0
             h4(data-aos='fade-up') Psilocibina
             p(data-aos='fade-up')  La psilocibina es el compuesto activo presente en los hongos alucinógenos. Al igual que el LSD, la psilocibina induce alteraciones en la percepción y el pensamiento, aunque muchos usuarios reportan una sensación de conexión espiritual o trascendental. No obstante, el consumo de psilocibina puede ser peligroso en personas con antecedentes de trastornos psicológicos.
-      .tabs-content.border.px-4.p-md-5.py-3(titulo='', :icon="require('@/assets/curso/unidad/img-17.svg')")
+      .tabs-content.border.px-4.p-md-5.py-3(titulo='Mescalina', :icon="require('@/assets/curso/unidad/img-17.svg')")
         .row
           .d-none.d-lg-block.col-md-12.col-lg-5.col-xl-4(data-aos='zoom-in')
             figure
@@ -138,7 +131,7 @@
           .col-md-12.col-lg-7.col-xl-8.mb-4.mb-md-0
             h4(data-aos='fade-up') Mescalina
             p(data-aos='fade-up') La mescalina es un alucinógeno presente en ciertos cactus, como el peyote. Sus efectos son similares a los del LSD y la psilocibina, provocando alteraciones en la percepción y un sentimiento de expansión de la conciencia. Aunque históricamente ha sido utilizada en rituales religiosos, su consumo recreativo puede ser riesgoso, especialmente para personas sin experiencia.
-      .tabs-content.border.px-4.p-md-5.py-3(titulo='', :icon="require('@/assets/curso/unidad/img-17.svg')")
+      .tabs-content.border.px-4.p-md-5.py-3(titulo='DMT (dimetiltriptamina)', :icon="require('@/assets/curso/unidad/img-17.svg')")
         .row
           .d-none.d-lg-block.col-md-12.col-lg-5.col-xl-4(data-aos='zoom-in')
             figure
@@ -149,7 +142,7 @@
 
     .d-flex.align-items-start.bg-amarillo.bg-full-width.p-4(data-aos='fade-up').d-flex.align-items-center.flex-column.flex-md-row.mb-4
       img.me-3(style='width: 90px' src='@/assets/curso/unidad/img-22.svg', alt='Texto descriptivo de la imagen')
-      .my-auto
+      .my-auto.p-4.p-xl-0
         p.pe-xl-3.mb-0 Los alucinógenos, aunque en algunos casos se utilizan con fines terapéuticos o espirituales, pueden ser peligrosos si se consumen sin el debido conocimiento y control. Las experiencias inducidas por estos compuestos pueden ser profundamente perturbadoras y, en algunos casos, pueden desencadenar trastornos psicológicos a largo plazo. 
 
     #t_1_4.titulo-segundo(data-aos="flip-up")
@@ -283,7 +276,7 @@
 
     .bg-amarillo.px-4.row.bg-full-width.mb-5
       .col-12.col-xl-8.d-flex
-        p.my-auto La clasificación de las sustancias psicoactivas, es un tema complejo y multifacético que implica consideraciones biológicas, psicológicas, sociales y legales. Al clasificar las sustancias psicoactivas, según su acción sobre el sistema nervioso central, su origen, su legalidad y otros criterios, podemos comprender mejor sus efectos y riesgos, lo que facilita la creación de políticas públicas y estrategias de prevención efectivas. Además, esta clasificación permite informar al público sobre los riesgos asociados con el consumo de estas sustancias y promover un enfoque más responsable y seguro en su uso.
+        p.my-auto.p-4.p-xl-0 La clasificación de las sustancias psicoactivas, es un tema complejo y multifacético que implica consideraciones biológicas, psicológicas, sociales y legales. Al clasificar las sustancias psicoactivas, según su acción sobre el sistema nervioso central, su origen, su legalidad y otros criterios, podemos comprender mejor sus efectos y riesgos, lo que facilita la creación de políticas públicas y estrategias de prevención efectivas. Además, esta clasificación permite informar al público sobre los riesgos asociados con el consumo de estas sustancias y promover un enfoque más responsable y seguro en su uso.
       .col-4.d-none.d-xl-block
         img(src='@/assets/curso/unidad/img-42.png', alt='Texto que describa la imagen')     
     

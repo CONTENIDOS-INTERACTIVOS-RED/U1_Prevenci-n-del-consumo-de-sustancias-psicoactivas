@@ -59,13 +59,12 @@
       .bg-gris.text-white.px-4.row.bg-full-width.mb-4
         .col-4.d-none.d-xl-block
           img(src='@/assets/curso/unidad/img-49.png', alt='Texto que describa la imagen')
-        .col-12.col-xl-8.d-flex.flex-column.justify-content-center
+        .col-12.col-xl-8.d-flex.flex-column.justify-content-center.p-4.p-xl-0
           p.mb-4 Los consumidores de drogas pueden experimentar una disminución en su rendimiento laboral, absentismo y conflictos con sus compañeros. Esto reduce su empleabilidad y aumenta la tasa de desempleo, en poblaciones vulnerables.
           span Además, muchas empresas han implementado políticas de control de drogas, incluyendo pruebas de detección, para garantizar la seguridad en el entorno laboral. La incapacidad para mantener un empleo estable, puede llevar a la exclusión social y a la criminalidad, como medio de subsistencia.
       .row.mb-4
         .col-12.col-xl-8
           h2 c) Relación con la criminalidad
-          p.mb-4(data-aos="fade-up") Los consumidores de drogas pueden experimentar una disminución en su rendimiento laboral, absentismo y conflictos con sus compañeros. Esto reduce su empleabilidad y aumenta la tasa de desempleo, en poblaciones vulnerables.
           .d-flex.align-items-start.bg-azul.p-4(data-aos='fade-up').d-flex.align-items-center.flex-column.flex-md-row.mb-4
             img.me-3(style='width: 90px' src='@/assets/curso/unidad/img-50.svg', alt='Texto descriptivo de la imagen')
             .my-auto
